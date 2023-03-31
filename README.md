@@ -1,0 +1,16 @@
+# GraphQl-task
+
+## Create GraphQL server with the follwiong types 
+
+### Article (id, title, content) 
+### User (fullname, email, dob)
+### Comment (title, content)
+
+## we need to query the graphql to:
+
+### 1. fetch the articles including their comments and including the articles' author 
+### 2. fetch article by its id 
+
+## Add mutation to create Article 
+
+## Add authentication using basic auth 
